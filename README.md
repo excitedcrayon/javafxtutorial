@@ -1,2 +1,2 @@
-# javafxtutorial
-Just a collection of JavaFX tutorials that I will use for future references
+# Javafxtutorial
+Just a collection of JavaFX tutorials that I am undertaking, which I will use for future references
